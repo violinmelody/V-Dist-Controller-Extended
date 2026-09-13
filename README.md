@@ -1,4 +1,4 @@
-![V-Dist Controller](./vdistcontrollerextended.png) "V-Dist Controller")
+![V-Dist Controller](./vdistcontrollerextended.png)
 
 # V-Dist Controller Extended Firmware
 
