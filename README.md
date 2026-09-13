@@ -1,6 +1,6 @@
 ![V-Dist Controller](https://dl.thorinair.net/MLP/vdistcontroller_b.png "V-Dist Controller")
 
-# V-Dist Controller - clock-synced multi-mode firmware
+# V-Dist Controller Extended Firmware
 
 V-Dist Controller is a single-knob USB MIDI controller originally created as a hardware counterpart to Violin Melody's [V-Dist Classic](https://violinmelody.net/plugins/vdist/) single-knob VST distortion effect.
 
