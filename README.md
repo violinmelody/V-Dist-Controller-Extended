@@ -1,4 +1,4 @@
-![V-Dist Controller](https://dl.thorinair.net/MLP/vdistcontroller_b.png "V-Dist Controller")
+![V-Dist Controller]([https://dl.thorinair.net/MLP/vdistcontroller_b.png](https://raw.githubusercontent.com/violinmelody/V-Dist-Controller-Extended/refs/heads/master/vdistcontrollerextended.png) "V-Dist Controller")
 
 # V-Dist Controller Extended Firmware
 
